@@ -4,6 +4,14 @@
 
 ### 😐
 
+- 🔭 I’m currently working on A student
+- 🌱 I’m currently learning Schoo
+- 💬 Ask me about Directing technology against injustice
+- 📫 How to reach me:heshanma2@gmail.com
+- 😄 Pronouns:Dagi
+
+
+
 
 <p align="center"><img src="GIF-220103_122256.gif" alt="Bt">
   </p>
