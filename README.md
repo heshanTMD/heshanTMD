@@ -1,6 +1,6 @@
 ### <h1>Hey, I'm Heshan Shankalpa </h1>
 
-### <p>I Lcove Sri Lanka 🇱🇰🇱🇰 </p>
+### <p>I Lcove Sri Lanka 🇱🇰🇱🇰 <img src='https://raw.githubusercontent.com/heshanTMD/heshanTMD/main/Earth.gif' width=20px></p>
 
 ### 😐
 
