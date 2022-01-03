@@ -22,8 +22,9 @@
 </p>
   
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href="https://github.com/heshanTMD"><img title="HESHAN SANKALPA" src="https://github-readme-stats.vercel.app/api?username=heshanTMD&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanTMD&theme=dark&hide_langs_below=1&layout=compact" width="360px"/>
+<p align="center">
+<a href="https://github.com/heshanTMD"><img title="HESHAN SANKALPA" src="https://github-readme-stats.vercel.app/api?username=heshanTMD&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanTMD&theme=dark&hide_langs_below=1&layout=compact" width="360px"/></a>
 </p>
 
 <p align="center">
