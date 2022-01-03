@@ -1,16 +1,8 @@
-### <h1>Hey, I'm Heshan Shankalpa <img src='https://raw.githubusercontent.com/heshanTMD/heshanTMD/main/Hi.gif' width=20px><img src='https://raw.githubusercontent.com/heshanTMD/heshanTMD/main/Hi.gif' width=20px><img src='https://raw.githubusercontent.com/heshanTMD/heshanTMD/main/Hi.gif' width=20px> </h1>
+### <h1>Hey, I'm Heshan Shankalpa </h1>
 
 ### <p>I Lcove Sri Lanka 🇱🇰🇱🇰 <img src='https://raw.githubusercontent.com/heshanTMD/heshanTMD/main/Earth.gif' width=20px></p>
 
 ### 😐
-
-- 🔭 I’m currently working on A student
-- 🌱 I’m currently learning Schoo
-- 💬 Ask me about Directing technology against injustice
-- 📫 How to reach me:heshanma2@gmail.com
-- 😄 Pronouns:Dagi
-
-
 
 
 <p align="center"><img src="GIF-220103_122256.gif" alt="Bt">
@@ -31,7 +23,7 @@
   
 ### KNOW MORE ABOUT ME>>>>
 <p align="center"><a href="https://github.com/heshanTMD"><img title="HESHAN SANKALPA" src="https://github-readme-stats.vercel.app/api?username=heshanTMD&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanTMD&theme=dark&hide_langs_below=1&layout=compact" width="360px"/>
 
 
 <p align="center">
@@ -48,8 +40,4 @@
 <a href="https://github.com/heshanTMD/Ip-Seeker"><img title="Ip-Seeker" src="https://github-readme-stats.vercel.app/api/pin/?username=heshanTMD&repo=Ip-Seeker&theme=highcontrast"></a>
 <a href="https://github.com/heshanTMD/shellphish"><img title="shellphish" src="https://github-readme-stats.vercel.app/api/pin/?username=heshanTMD&repo=shellphish&theme=highcontrast"></a>
 <a href="https://github.com/heshanTMD/hackcam"><img title="hackcam" src="https://github-readme-stats.vercel.app/api/pin/?username=heshanTMD&repo=hackcam&theme=highcontrast"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/heshanTMD"><img title="heshanTMD" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanTMD&layout=compact"></a>
 </p>
