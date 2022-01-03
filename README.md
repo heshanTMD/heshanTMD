@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/heshanTMD-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/heshan-TMD-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Heshan Sankalpa-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
