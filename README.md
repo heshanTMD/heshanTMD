@@ -1,4 +1,4 @@
-### <h1>Hey, I'm Heshan Shankalpa <img src='https://raw.githubusercontent.com/heshanTMD/heshanTMD/main/Hi.gif' width=20px> </h1>
+### <h1>Hey, I'm Heshan Shankalpa <img src='https://raw.githubusercontent.com/heshanTMD/heshanTMD/main/Hi.gif' width=20px><img src='https://raw.githubusercontent.com/heshanTMD/heshanTMD/main/Hi.gif' width=20px><img src='https://raw.githubusercontent.com/heshanTMD/heshanTMD/main/Hi.gif' width=20px> </h1>
 
 ### <p>I Lcove Sri Lanka 🇱🇰🇱🇰 <img src='https://raw.githubusercontent.com/heshanTMD/heshanTMD/main/Earth.gif' width=20px></p>
 
