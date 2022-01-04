@@ -6,7 +6,7 @@
 
 ### 😐
 
- 🔭 I’m currently working on A student
+- 🔭 I’m currently working on A student
 - 🌱 I’m currently learning School
 - 💬 Ask me about Directing technology against injustice
 - 📫 How to reach me:heshanma2@gmail.com
