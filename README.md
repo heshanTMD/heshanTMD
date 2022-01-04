@@ -53,6 +53,9 @@
 <a href="https://t.me/h4ck199"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 
+<a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR">![TikTok](https://img.shields.io/badge/H4CK.LK-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=FF0F00)</a>
+
+</p>
 <p align="center">
 <a href="https://github.com/heshanTMD/WhatsApp-Spam"><img title="WhatsApp-Spam" src="https://github-readme-stats.vercel.app/api/pin/?username=heshanTMD&repo=WhatsApp-Spam&theme=highcontrast"></a>
 <a href="https://github.com/heshanTMD/Ip-Seeker"><img title="Ip-Seeker" src="https://github-readme-stats.vercel.app/api/pin/?username=heshanTMD&repo=Ip-Seeker&theme=highcontrast"></a>
