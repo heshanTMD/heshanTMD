@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heshantmd" alt="heshantmd" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@heshansedvin" target="blank"><img src="https://img.shields.io/twitter/follow/@heshansedvin?logo=twitter&style=for-the-badge" alt="@heshansedvin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/heshansedvin" target="blank"><img src="https://img.shields.io/twitter/follow/heshansedvin?logo=twitter&style=for-the-badge" alt="heshansedvin" /></a> </p>
 
 - 🌱 I’m currently learning **Back-End Development**
 
@@ -17,7 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@heshansedvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@heshansedvin" height="30" width="40" /></a>
+<a href="https://twitter.com/heshansedvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heshansedvin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/heshan s edvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heshan s edvin" height="30" width="40" /></a>
+<a href="https://fb.com/heshan sankalpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heshan sankalpa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heshantmd&show_icons=true&locale=en" alt="heshantmd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heshantmd&" alt="heshantmd" /></p>
+
